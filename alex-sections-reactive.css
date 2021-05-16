@@ -10,6 +10,27 @@
     width: 75%;
   }
 
+  /* About Me Tablet Settings */
+
+  .landing-main {
+    flex-direction: column;
+    background-image: url(./Images/ALEX0109_INTERNET.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+  }
+
+  .landing-main-container {
+    align-content: center;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .About-section {
+    background-image: url(./Images/ALEX0109_INTERNET.jpg);
+    background-position: center center;
+  }
+
   /* Contact Page Tablet Settings */
   #contact-main {
     background-position: center center;
